@@ -10,3 +10,6 @@ Techniques used are-
 3. Oversampling of skewed classes
 4. Focal Loss Function(FAIR)
 
+
+Accuracy metrics used to measure the accuracy of classification of skewed classes in ROC AUC curve
+
